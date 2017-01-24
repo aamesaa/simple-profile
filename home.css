@@ -1,0 +1,110 @@
+body 
+{
+    background-image: url("paper1.jpg");
+ 	background-size: cover;
+ }
+.container
+{
+	
+	margin-left:125px;
+	margin-right:125px;
+	margin-top:10px;
+	padding:0px;
+	
+}
+
+@font-face{
+font-family: 'Branboll Fet';
+src:url('FONT59.TIF');
+}
+.tops
+{
+	font-family:"Brannboll Fet";
+	text-align:center;
+	font-size:27px;
+	color:#355c7d;
+	
+}
+
+.contenabt
+{
+	text-align:right;
+	font-size:35px;
+	font-family:"Rockwell";
+	line-height:0.75em;
+}
+
+#socmedcontent
+{
+	margin-left: 50px;
+	
+}
+
+#profilepict
+{
+	
+	width:250px;
+	height:250px; 
+	padding-left:25px;
+	margin:1px;
+}
+.icon
+{
+	width:55px;
+	height:55px;
+	float:right;
+}
+
+#contact
+{
+	font-size:20px;
+}
+
+.left
+{
+	padding:5px;
+	margin:15px;
+	width:275px;
+	
+	font-family: rockwell;
+}
+
+
+	
+
+.abtme
+{
+	font-family:"Rockwell";
+	font-size:30px;
+}
+
+#abttr
+{
+	height:30px;
+}
+
+.right
+{
+	padding:5px;
+	width:745px;
+	
+	align:top;
+	font-family: consolas;
+	
+}
+.head
+{
+	background-color:#355c7d;
+	font-size:36px;
+	font-family:Consolas;
+	color:#f4737d;
+	padding:5px;
+	margin-right: 7.5px;
+	margin-left: 7.5px;
+}
+.konten
+{
+	padding-left: 15px;
+	font-family:Consolas;
+	
+}
